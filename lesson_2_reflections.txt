@@ -6,4 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 It offers an extra layer of abstraction, for planning and grouping files.
 
-Herp.
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can run git diff --staged to see the difference between the most recent commit and the staging area.
