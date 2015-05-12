@@ -1,0 +1,25 @@
+Being able to look at two files side by side
+so to speak allowed us to see what differences
+were in the files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I could be less hesitant about trying new changes, and be more organized.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Cons: I may not commit enough.
+Pros: I have more control over it.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Fundamentally different objects
+
+How can you use the commands git log and git diff to view the history of files?
+git log --grep="Whatever" to find commit comments, and git diff id1 id2 to see the differences  between two files
+
+How might using version control make you more confident to make changes that could break something?
+Much more willing to not care if stuff breaks
+
+Now that you have your workspace set up, what do you want to try using Git for?
+so much r code
