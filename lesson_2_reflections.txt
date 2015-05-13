@@ -16,4 +16,4 @@ When I want to experiment.
 
 How do the diagrams help you visualize the branch structure?
 
-Much easier to see where everything is
+Much easier to see where everything is, I swear
