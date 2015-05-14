@@ -17,3 +17,11 @@ When I want to experiment.
 How do the diagrams help you visualize the branch structure?
 
 Much easier to see where everything is, I swear
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It puts both branches together into a single branch for progression.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It's easy, but it doesn't always know what it's doing.
