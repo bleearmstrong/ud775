@@ -17,3 +17,7 @@ To avoid conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Communicating via email, sending documents back in forth. In general, I think it would be much harder. The only easier thing would be not having to learn a new system.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It's much nicer to have an untainted copy, that people can discuss their changes.
